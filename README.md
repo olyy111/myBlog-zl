@@ -5,7 +5,7 @@
 ## 开发环境
 * Node.js: `v7.5.0`
 * Express: `4.14.1`
-* MongoDB: `4.8.3`
+* MongoDB: `3.4.2`
 
 ------
 
@@ -18,8 +18,8 @@
 --------
 
 ## 安装
-仓库克隆到本地
-`npm init`
+[仓库](https://github.com/olyy111/myBlog-zl.git)克隆到本地
+`npm install`
 
 ---------
 
