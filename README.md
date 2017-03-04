@@ -26,7 +26,7 @@
 ## 运行
 ### 链接数据库
 1. 在mongoose 的bin目录下打开命令行 `mongod --dbpath=XXX --port=YYY`
-XXX为指定 **db** 的绝对路径，YYY为指定端口号
+XXX为指定 **db** 的绝对路径(需要在项目根目录下面建立此文件夹)，YYY为指定端口号
 2. Robomongo 0.9.0 连接数据库
 
 ### 启动应用
