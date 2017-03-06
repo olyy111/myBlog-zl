@@ -27,11 +27,11 @@
 ### 链接数据库
 1. 在mongoose 的bin目录下打开命令行 `mongod --dbpath=XXX --port=YYY`
 XXX为指定 **db** 的绝对路径(需要在项目根目录下面建立此文件夹)，YYY为指定端口号
-2. Robomongo 0.9.0 连接数据库
-
+2. Robomongo 0.9.0 连接数据库,在connet的时候，填写对应YYY端口号
+3. 在app.js中修改指定数据库端口号与YYY一致
 ### 启动应用
 `node app.js`
-
+如果端口号被占用，更换之
 ### 注册管理员帐号
 1. 打开首页注册帐号admin 密码admin
 2. 在Robomongo中将这条数据下的 `isAdmin`字段修改为 `true`
