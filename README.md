@@ -1,13 +1,10 @@
 ﻿# 我的博客
 [博客链接](http://139.129.240.16)
 
-----------
 ## 开发环境
 * Node.js: `v7.5.0`
 * Express: `4.14.1`
 * MongoDB: `3.4.2`
-
-------
 
 ## 特点
 * 前台内容页语法+代码高亮+登录注册管理+评论管理
@@ -18,7 +15,18 @@
 * 支持md语法的文章内容修改
 * 内容显示区支持语法以及代码高亮
 
---------
+## 效果演示
+上传文件
+![](https://raw.githubusercontent.com/olyy111/source/master/blog/blog1.gif) 
+
+在线编辑
+![](https://raw.githubusercontent.com/olyy111/source/master/blog/blog2.gif)
+
+后台管理展示
+![](https://raw.githubusercontent.com/olyy111/source/master/blog/blog3.gif)
+
+内容分类，内容展示，分页
+![](https://raw.githubusercontent.com/olyy111/source/master/blog/blog4.gif)
 
 ## 安装
 [仓库](https://github.com/olyy111/myBlog-zl.git)克隆到本地
